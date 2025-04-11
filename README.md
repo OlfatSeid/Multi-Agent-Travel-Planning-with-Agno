@@ -1,1 +1,29 @@
 # Multi-Agent Travel Planning with agno
+# Multi-Agent Travel Planning with agno
+
+Multi-Agent Travel Planning with agno is a multi-agent travel planning system that leverages the agno framework along with Groq’s language models and additional tools (DuckDuckGo, Tavily) to generate comprehensive, step-by-step travel plans. This project demonstrates how to combine specialized agents for travel research, itinerary planning, and budget analysis into a unified team to provide detailed and organized travel recommendations.
+
+## Features
+
+- **Multi-Agent System:**  
+  Combines several agents—Travel Researcher, Itinerary Builder, and Budget Analyst—that work together to generate a complete travel plan.
+  
+- **Organized, Step-by-Step Output:**  
+  Outputs the travel plan in a clearly formatted, step-by-step manner (with headings and organized sections) to simplify user understanding.
+  
+- **Interactive Gradio UI:**  
+  A simple, single-column Gradio user interface allows users to input travel requests and view results directly below the query.
+  
+- **Extensible and Modular:**  
+  Easily modify the agents or add additional agents and tools to further customize the travel planning experience.
+
+## Requirements
+
+- Python 3.7+
+- [Gradio](https://gradio.app/) (`pip install gradio`)
+- [agno](https://pypi.org/project/agno/) (multi-agent framework)
+- [groq](https://pypi.org/project/groq/) (Groq API integration)
+- [tavily-python](https://pypi.org/project/tavily-python/) (search tool integration)
+- [google.colab](https://research.google.com/colaboratory/) (if using in Colab)
+- [pydantic](https://pydantic-docs.helpmanual.io/) (for data validation)
+
