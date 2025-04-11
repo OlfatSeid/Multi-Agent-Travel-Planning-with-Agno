@@ -1,5 +1,5 @@
-# Multi-Agent Travel Planning with agno
-# Multi-Agent Travel Planning with agno
+# Multi-Agent Travel Planning with Agno
+
 
 Multi-Agent Travel Planning with agno is a multi-agent travel planning system that leverages the agno framework along with Groq’s language models and additional tools (DuckDuckGo, Tavily) to generate comprehensive, step-by-step travel plans. This project demonstrates how to combine specialized agents for travel research, itinerary planning, and budget analysis into a unified team to provide detailed and organized travel recommendations.
 
