@@ -1,6 +1,6 @@
 agno
 duckduckgo-search
 yfinance 
-gradio
 groq
+gradio
 
