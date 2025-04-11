@@ -1,7 +1,6 @@
-crewai
-crewai[tools,agentops]==0.95.0
+agno
+duckduckgo-search
+yfinance 
+gradio
 groq
-tavily-python
-python-dotenv
-pydantic
-scrapegraph-py
+
