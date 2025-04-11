@@ -23,7 +23,6 @@ Multi-Agent Travel Planning with agno is a multi-agent travel planning system th
 - [Gradio](https://gradio.app/) (`pip install gradio`)
 - [agno](https://pypi.org/project/agno/) (multi-agent framework)
 - [groq](https://pypi.org/project/groq/) (Groq API integration)
-- [tavily-python](https://pypi.org/project/tavily-python/) (search tool integration)
-- [google.colab](https://research.google.com/colaboratory/) (if using in Colab)
+- [DuckDuckGo Tools](https://pypi.org/project/duckduckgo-tools/) (for search functionality)
 - [pydantic](https://pydantic-docs.helpmanual.io/) (for data validation)
 
