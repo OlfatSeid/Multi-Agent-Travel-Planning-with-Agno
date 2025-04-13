@@ -27,8 +27,8 @@ Multi-Agent travel planning with agno is a multi-agent system that leverages the
 - [pydantic](https://pydantic-docs.helpmanual.io/) (for data validation)
 
 #### Setup
-** API Keys:
+**API Keys:
 Set up your API keys for Groq and Tavily. In Colab, you can use google.colab.userdata or environment variables to store and access these keys.
 
-** Output Directory:
+**Output Directory:
 The application creates an ./travel_output directory for saving the generated outputs. Ensure you have write access to this directory.
